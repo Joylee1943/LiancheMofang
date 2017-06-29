@@ -1,0 +1,13 @@
+!EnvironmentInfo
+apk: E:\PythonProject\LiancheMofang/apk/qihu_release_v3.6.1_2017-03-02_Pro.apk
+app_activity: com.shautolinked.car.ui.SplashActivity
+app_package: com.shautolinked.car
+appium: 1.6.5
+devices:
+- !DeviceInfo
+  device_name: emulator-5554
+  platform_name: Android
+  platform_version: 4.4.2
+html_report: E:\PythonProject\LiancheMofang/report/html
+pages_yaml: E:\PythonProject\LiancheMofang/page/yaml
+xml_report: E:\PythonProject\LiancheMofang/report/xml

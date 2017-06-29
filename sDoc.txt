@@ -1,0 +1,8 @@
+直接shell中粘贴下面,方便自己实时调试,比如想测试xpath
+
+import s
+action = s.action
+driver = s.driver
+
+
+获取当前方法名sys._getframe().f_code.co_name

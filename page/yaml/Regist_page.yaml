@@ -1,0 +1,32 @@
+---
+RegistPage:
+  dec: 注册界面
+  locators:
+    -
+      name: 手机号
+      type: id
+      value: com.shautolinked.car:id/etPhone
+    -
+      name: 获取验证码
+      type: id
+      value: com.shautolinked.car:id/etAuthCode
+    -
+      name: 验证码
+      type: id
+      value: com.shautolinked.car:id/tvGetAuthCode
+    -
+      name: 密码
+      type: id
+      value: com.shautolinked.car:id/etPassword
+    -
+      name: 确认密码
+      type: id
+      value: com.shautolinked.car:id/etPasswordConfirm
+    -
+      name: 提交
+      type: id
+      value: com.shautolinked.car:id/btnCommit
+    -
+      name: 返回
+      type: id
+      value: com.shautolinked.car:id/btnBack

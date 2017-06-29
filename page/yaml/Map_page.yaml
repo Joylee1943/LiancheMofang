@@ -1,0 +1,20 @@
+---
+MapPage:
+  dec: 地图页面
+  locators:
+    -
+      name: 停车场
+      type: id
+      value: com.shautolinked.car:id/iv_map_park
+    -
+      name: 洗车
+      type: id
+      value: com.shautolinked.car:id/iv_map_wash_car
+    -
+      name: 维修
+      type: id
+      value: com.shautolinked.car:id/iv_map_maintenance
+    -
+      name: 加油站
+      type: id
+      value: com.shautolinked.car:id/iv_map_gas_station

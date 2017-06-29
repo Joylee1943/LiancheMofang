@@ -1,0 +1,12 @@
+---
+AddVehiclePage:
+  dec: 添加车辆页面
+  locators:
+    -
+      name: 输入车架号
+      type: id
+      value: com.shautolinked.car:id/etVin
+    -
+      name: 添加
+      type: id
+      value: com.shautolinked.car:id/btnAddCar

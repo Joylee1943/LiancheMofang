@@ -1,0 +1,12 @@
+---
+UserInfoPage:
+  dec: 个人信息
+  locators:
+    -
+      name: 个人中心
+      type: id
+      value: com.shautolinked.car:id/ll_account_info
+    -
+      name: 昵称
+      type: id
+      value: com.shautolinked.car:id/test

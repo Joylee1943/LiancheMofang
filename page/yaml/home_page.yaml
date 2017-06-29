@@ -1,0 +1,20 @@
+---
+HomePage:
+  dec: 主界面
+  locators:
+    -
+      name: 登录
+      type: id
+      value: com.shautolinked.car:id/btnLeft
+    -
+      name: 个人中心
+      type: id
+      value: com.shautolinked.car:id/ivAvatar
+    -
+      name: 马上检测
+      type: id
+      value: com.shautolinked.car:id/iv_score_bg
+    -
+      name: 地图
+      type: id
+      value: com.shautolinked.car:id/ivMap

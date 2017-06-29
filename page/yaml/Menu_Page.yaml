@@ -1,0 +1,24 @@
+---
+MenuPage:
+  dec: 个人中心
+  locators:
+    -
+      name: 个人中心
+      type: id
+      value: com.shautolinked.car:id/ll_account_info
+    -
+      name: 注销
+      type: id
+      value: com.shautolinked.car:id/btnLogout
+    -
+      name: 我的车辆
+      type: id
+      value: com.shautolinked.car:id/ll_my_car
+    -
+      name: 确定
+      type: id
+      value: android:id/button1
+    -
+      name: 取消
+      type: id
+      value: android:id/button2
